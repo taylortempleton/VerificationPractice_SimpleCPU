@@ -35,7 +35,7 @@ I use EDA playground as I do not have access to commercial simulators:
 Definition of Terms
 -------------------
 
-+---------------+--------------------------------------------------------------------+
+
 | Term          | Defintion                                                          |
 +===============+====================================================================+
 | BSP           | Board Support Package. A set of support files, such as a C         |
