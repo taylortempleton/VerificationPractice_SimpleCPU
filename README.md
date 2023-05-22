@@ -7,9 +7,9 @@ My goal was to use an extremely simple CPU to understand how Systemverilog, UVM,
 
 I will next work on a more complex project, likely parts of the Berkeley Out-of-Order Machine (BOOM) Core.
 
-Before doing so, I am seeking feedback to calibrate my efforts to industry best practices.  
+Before doing so, I am seeking feedback to calibrate my efforts to industry best practice.  My ultimate goal is to land a job as a DV engineer.
 
-All input and scrutiny is appreciated.  Thank you!
+All input is much appreciated.  Thank you!
 
 ([Taylor's Current Resume](2023_05_May_22_TaylorTempleton_GithubVersion.pdf)) 
 
