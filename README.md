@@ -1,8 +1,14 @@
-# VerificationPractice_SimpleCPU
+# VerificationPractice: Simple CPU Verificaion
 
-Goal: Create and execute a verification plan for an extremely simple CPU, using free tools, to build familiarity with Systemverilog/UVM, SVA, functional coverage.
+Hello! Below is an attempt a verifiying an extremely simple CPU, using free tools, to teach myself how Systemverilog/UVM, SVA, functional coverage and other verification methodologies work in concert.
 
-Methodology: Pick simple CPU.
+I will next work on a more complex verification project, probably verifiying UC Berkeley's Out-of-Order Machine (BOOM) core.
+
+Before doing so, I am seeking feedback to calibrate my efforts to industry best practices.  My end goal is to get a job as a verification engineer.
+
+All input and scrutiny, no matter how simple is appreciated.  Thank you!
+
+(Current Resume)
 
 ![](CPU_schematic.png)
 
