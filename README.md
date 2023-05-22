@@ -1,14 +1,16 @@
 # VerificationPractice: Simple CPU Verificaion
 
-Hello! Below is an attempt a verifiying an extremely simple CPU, using free tools, to teach myself how Systemverilog/UVM, SVA, functional coverage and other verification methodologies work in concert.
+Hello! 
 
-I will next work on a more complex verification project, probably verifiying UC Berkeley's Out-of-Order Machine (BOOM) core.
+Below is an attempt a verifiying an extremely simple CPU, using free tools, to teach myself how Systemverilog/UVM, SVA, functional coverage and other verification methodologies work in concert.
+
+I will next work on a more complex project, verifiying parts of UC Berkeley's Out-of-Order Machine (BOOM) core.
 
 Before doing so, I am seeking feedback to calibrate my efforts to industry best practices.  My end goal is to get a job as a verification engineer.
 
-All input and scrutiny, no matter how simple is appreciated.  Thank you!
+All input and scrutiny is appreciated.  Thank you!
 
-(Current Resume)
+([Taylor's Current Resume](2023_05_May_22_TaylorTempleton_GithubVersion.pdf)) 
 
 ![](CPU_schematic.png)
 
