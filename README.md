@@ -1,18 +1,17 @@
-# VerificationPractice: Simple CPU Verification
+# Verification Practice: Simple CPU Verification
 ## Hello!
 
 Below is my self-motivated attempt at verifiying an extremely simple CPU.
 
 My goal was to use a super simple CPU to understand how Systemverilog, UVM, SVA, functional coverage and other verification methodologies work in concert.
 
-I will next work on a more complex project, likely parts of the Berkeley Out-of-Order Machine (BOOM) Core.
+I will next work on a more complex project, likely verifying parts of the Berkeley Out-of-Order Machine (BOOM) Core.
 
-Before doing so, I am seeking feedback.  My ultimate goal is to land a job as a DV engineer.
-
-Is this a reasonable approach?
-Is the BOOM core a good project?
+Before doing so, I am seeking feedback:
 Do you see anything that is absolutely awful?
 Are there other concepts or methodologies I should consider learning to become a more competitive applicant?
+Is this a reasonable approach?
+Is the BOOM core a good project?
 
 All input is much appreciated.  Thank you!
 
