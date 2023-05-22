@@ -1,7 +1,7 @@
 # VerificationPractice: Simple CPU Verification
 ## Hello!
 
-Below is my attempt a verifiying an extremely simple CPU.
+Below is my self-motivated attempt at verifiying an extremely simple CPU.
 
 My goal was to use an extremely simple CPU to understand how Systemverilog, UVM, SVA, functional coverage and other verification methodologies work in concert.
 
