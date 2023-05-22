@@ -1,4 +1,4 @@
-# VerificationPractice: Simple CPU Verificaion
+# VerificationPractice: Simple CPU Verification
 
 Hello! 
 
