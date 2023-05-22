@@ -1,5 +1,5 @@
 # VerificationPractice: Simple CPU Verification
-### Hello!
+## Hello!
 
 Below is my attempt a verifiying an extremely simple CPU.
 
@@ -13,11 +13,11 @@ All input is much appreciated.  Thank you!
 
 ([Taylor's Current Resume](2023_05_May_22_TaylorTempleton_GithubVersion.pdf)) 
 
-### Simple CPU
+## Simple CPU
 This CPU is from a Cadence "systemverilog for design" course.  I used the RTL only, but built the testbench entirely myself.
 ![](CPU_schematic.png)
 
-### EDA Playground Simulations
+## EDA Playground Simulations
 I use EDA playground as I do not have access to commercial simulators:
 
 | Block                | EDA Playground Simulation            |
@@ -31,8 +31,8 @@ I use EDA playground as I do not have access to commercial simulators:
 | Memory               | https://www.edaplayground.com/x/K4_Z |
 
 
-### Verification Plan
-====================================================================================================================================================================
+## Verification Plan
+
 
 |                             | What is the requirement to be verified?                                                        | What type of stimulus was used?        | Name of stim gen code?                                               | Exactly how do you know the stimulus indeed fully tests the requirement? | Exactly how do you know the DUT has passed/failed the requirement? | Where exactly is the code responsible for demonstrating pass/fail?                                                                                                                                                                                                               |
 | --------------------------- | ---------------------------------------------------------------------------------------------- | -------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
