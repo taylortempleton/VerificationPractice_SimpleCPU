@@ -3,9 +3,9 @@
 
 Below is my attempt a verifiying an extremely simple CPU.
 
-The goal of this project is to use an extremely simple CPU to understand how Systemverilog, UVM, SVA, functional coverage and other verification methodologies work in concert.
+My goal was to use an extremely simple CPU to understand how Systemverilog, UVM, SVA, functional coverage and other verification methodologies work in concert.
 
-I will next work on a more complex project.
+I will next work on a more complex project, likely parts of the Berkeley Out-of-Order Machine (BOOM) Core.
 
 Before doing so, I am seeking feedback to calibrate my efforts to industry best practices.  
 
@@ -14,7 +14,7 @@ All input and scrutiny is appreciated.  Thank you!
 ([Taylor's Current Resume](2023_05_May_22_TaylorTempleton_GithubVersion.pdf)) 
 
 ### Simple CPU
-This CPU is used in a Cadence training course to teach systemverilog for design purposes.  I used the RTL, but build the testbench entirely myself.
+This CPU is from a Cadence "systemverilog for design" course.  I used the RTL only, but built the testbench entirely myself.
 ![](CPU_schematic.png)
 
 ### EDA Playground Simulations
