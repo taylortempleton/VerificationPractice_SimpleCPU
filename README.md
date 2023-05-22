@@ -31,6 +31,15 @@ I use EDA playground as I do not have access to commercial simulators:
 | Memory               | https://www.edaplayground.com/x/K4_Z |
 
 
++---------------+--------------------------------------------------------------------+
+| Term          | Defintion                                                          |
++===============+====================================================================+
+| BSP           | Board Support Package. A set of support files, such as a C         |
+|               | runtime configuration (crt0.S), linker control script (link.ld),   |
+|               | etc. that are used to define the software envrionment used by a    |
+|               | test-program.                                                      |
++---------------+--------------------------------------------------------------------+
+
 ## Verification Plan
 
 
