@@ -2,7 +2,7 @@
 
 Goal: Create and execute a verification plan for an extremely simple CPU, using free tools, to build familiarity with Systemverilog/UVM, SVA, functional coverage.
 
-
+Methodology: Pick simple CPU.
 
 
 
