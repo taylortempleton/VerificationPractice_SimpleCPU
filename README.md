@@ -1,7 +1,5 @@
 # VerificationPractice: Simple CPU Verification
-## VerificationPractice: Simple CPU Verification
-
-Hello! 
+### Hello!
 
 Below is an attempt a verifiying an extremely simple CPU, using free tools, to teach myself how Systemverilog/UVM, SVA, functional coverage and other verification methodologies work in concert.
 
@@ -13,9 +11,10 @@ All input and scrutiny is appreciated.  Thank you!
 
 ([Taylor's Current Resume](2023_05_May_22_TaylorTempleton_GithubVersion.pdf)) 
 
+### Simple CPU
 ![](CPU_schematic.png)
 
-
+### EDA Playground Simulations
 
 | Block                | EDA Playground Simulation            |
 |----------------------|--------------------------------------|
