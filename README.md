@@ -4,6 +4,8 @@ Goal: Create and execute a verification plan for an extremely simple CPU, using 
 
 Methodology: Pick simple CPU.
 
+![](docs/figures/uarch.png)
+
 
 
 | Block                | EDA Playground Simulation            |
