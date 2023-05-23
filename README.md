@@ -45,6 +45,9 @@ I use EDA playground as I do not have access to commercial simulators:
 | ALU                  | https://www.edaplayground.com/x/JT9j |
 | Memory               | https://www.edaplayground.com/x/K4_Z |
 
+Example EDAplayground log.  (Results printed to log instead of exported with Synopsis URG for readability.)
+![](EDAPlaygroundExampleLog.png)
+
 
 ## Verification Plan
 
