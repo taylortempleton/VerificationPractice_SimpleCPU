@@ -3,7 +3,7 @@
 
 Below is my first self-motivated verification project. 
 
-I found an extremely simple CPU, created a verification plan, and built a testbench to execute the plan.  Both are below.
+I found an extremely simple CPU, created a verification plan, and built a testbench to execute the plan.  CPU, plan and simulations are below.
 
 My goal was to understand how SV, UVM, SVA, functional coverage and other verification tools work in concert, and to quickly gain insight into some of the challenges I read about (the need for resusability and impact of testbench hierarchy choices, for example).
 
