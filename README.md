@@ -12,10 +12,10 @@ My goals for this project were:
 I am hoping to get quick feedback on a few questions, before starting a second, more complex verification project.
 
 Ask: Before starting my 2nd project, I was hoping for feedback on this project, keeping in mind :
-⋅⋅* Do you see anything that is absolutely awful, incorrect, stupid
-⋅⋅* Are there other concepts or methodologies I should consider learning to become a more competitive applicant?  (I am not incorporating generative AI, until I have rock-solid understanding of verification fundamentals)
-⋅⋅* Is this a reasonable approach?
-⋅⋅⋅* Is the BOOM core a good project?  
+1. Do you see anything that is absolutely awful, incorrect, stupid
+3. Is this a reasonable approach?
+4. 2. Are there other concepts or methodologies I should consider learning to become a more competitive applicant?  (I am not incorporating generative AI, until I have rock-solid understanding of verification fundamentals)
+Is the BOOM core a good project?  
 ⋅⋅⋅⋅* Berkeley Out-of-Order Machine (BOOM) Core with Ocelot
 ⋅⋅⋅⋅* Instruction Set Set Simulator (Whisper)
 ....* Hierarchical
