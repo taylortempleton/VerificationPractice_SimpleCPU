@@ -52,7 +52,8 @@ Example EDAplayground log.  (Results printed to log instead of exported with Syn
 
 
 ## Testbench Architecture
-![](DraftTestbenchArchitecture.png)
+Say some words about architeture. Influences? Improvements weaknesses?
+![](DraftTestbenchArchitecture_Complete.png)
 
 ## Verification Plan
 Inspiried by openHW, piziali mehta.
