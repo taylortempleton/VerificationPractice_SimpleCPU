@@ -31,6 +31,9 @@ Taylor Templeton
 This CPU is from a Cadence "systemverilog for design" course.  I used the RTL only, but built the testbench entirely myself.
 ![](CPU_schematic.png)
 
+## Testbench Architecture
+#Put a picture here!
+
 ## EDA Playground Simulations
 I use EDA playground as I do not have access to commercial simulators:
 
