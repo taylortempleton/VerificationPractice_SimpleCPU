@@ -29,7 +29,7 @@ I created my verification plan based on the following resources:
 * The OpenHW Group's Core-V Verification Project verification plans
 
 ([Verification Plan Excel](Draft_VerificationPlan.xlsx)) 
-![](TrashTest_Copy of Figure_TestbenchArchitecture.png)
+![](TrashTest.png)
 
 
 ## Testbench Architecture
