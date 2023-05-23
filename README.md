@@ -28,20 +28,24 @@ Taylor Templeton
 
 ([Resume](2023_05_May_22_TaylorTempleton_GithubVersion.pdf)) 
 
+
 ## Simple CPU
 This CPU is from a Cadence "systemverilog for design" course.  I used the RTL only, but built the testbench entirely myself.
 ![](CPUschematic_Opcodes_Snap.png)
 ![](StatemachineDecode_Snap.png)
+
 
 ## Verification Plan
 Inspiried by openHW, piziali mehta.
 ([Verification Plan](Draft_VerificationPlan.xlsx)) 
 ![](Draft_Vplan.png)
 
+
 ## Testbench Architecture
 UVM_cookbook, OpenHW tb, Cadence online training.
 
 ![](DraftTestbenchArchitecture_Complete.png)
+
 
 ## EDA Playground Simulations
 I use EDA playground as I do not have access to commercial simulators:
@@ -60,10 +64,10 @@ Example EDAplayground log.  (Results printed to log instead of exported with Syn
 ![](EDAPlaygroundExampleLog.png)
 
 
-
 ## Lessons Learned
-** Reusability is critical.  Even for a simple design, huge percentage of time was reprogamming the same components for different IP blocks.**
-** Consistency in naming at interfaces seems critical for reusability**
+* TB reusability is key.
+  * Even for a simple design, huge percentage of time was reprogamming the same components for different IP blocks.
+* Consistency in naming at interfaces seems critical for reusability
 * Plan to try to implement assertions in checker module
 * Need to improve SVA skills, they are marginal.
 * Want to try to implement formal.
