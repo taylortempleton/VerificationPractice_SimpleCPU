@@ -1,9 +1,9 @@
-# Verification Practice: Simple CPU Verification
+# Verification Practice Project #1: Simple CPU Verification
 ## Hello!
 
-Below is my self-motivated attempt at verifiying an extremely simple CPU.
+Below is my first self-motivated verification project.  I am hoping to get quick feedback.
 
-My goal was to use a super simple CPU to understand how Systemverilog, UVM, SVA, functional coverage and other verification methodologies work in concert.
+My goal was to use an extremely simple CPU to understand how Systemverilog, UVM, SVA, functional coverage verification planning, and other verification methodologies work in concert.
 
 I will next work on a more complex project, likely verifying parts of the Berkeley Out-of-Order Machine (BOOM) Core.
 
