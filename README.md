@@ -4,13 +4,13 @@
 
 Below is my first, and self-assigned, verification project.
 
-I found an *extremely* simple CPU, created a verification plan, and built a testbench in EDAplayground to execute the plan.
+I found an extremely simple CPU, created a verification plan, and built a testbench in EDAplayground to execute the plan.
 
 My goal was to understand how verification tools (SV, UVM, SVA, functional coverage, etc.) work in concert, before attempting a more complex DUT.
 
 I am looking for feedback, before beginning another project:
 1. Do you have any criticism of the verification plan or testbenches below?
-2. Are there any skills, concepts or architectures my next project could incorporate to demonstrate I would be a solid entry-level DV addition?  Next, I plan to try to verify aspects of the Berkeley Out-of-Order Machine (BOOM) Core with the Ocelot vector unit.
+2. Are there any skills, concepts or architectures my next project could incorporate to demonstrate I would be a solid entry-level DV hire?  Next, I plan to try to verify aspects of the Berkeley Out-of-Order Machine (BOOM) Core with the Ocelot vector unit.
 3. Do you think building increasingly complex testbenches is a reasonable approach to landing an entry level DV engineering role?
 
 All input is much appreciated.  Thank you!
@@ -57,6 +57,7 @@ I use EDA playground, as I do not have access to commercial simulators:
 
 Example EDAplayground log.  (Results printed to log instead of exported with Synopsis URG for readability.)
 ![](EDAPlaygroundExample_MarkedUp.png)
+
 
 ## Simple CPU
 
