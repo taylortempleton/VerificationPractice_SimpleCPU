@@ -11,8 +11,7 @@ My goal was to understand how verification tools (SV, UVM, SVA, functional cover
 I am looking for feedback, before beginning a second, more complex project:
 1. Do you have any criticism of the verification plan or testbenches below?
 2. Do you think building increasingly complex testbenches is a reasonable approach to landing an entry level DV engineering role?
-3. What skills or concepts or architectures would my next project need to include to give you total confidence I would be a solid entry-level addition to your team?  In my next project I plan to incorporate:
-* Berkeley Out-of-Order Machine (BOOM) Core with Ocelot vector unit
+3. What skills or concepts or architectures would my next project need to include to give you total confidence I would be a solid entry-level addition to your team?  In my next project I plan to incorporate: * Berkeley Out-of-Order Machine (BOOM) Core with Ocelot vector unit
 * Instruction Set Set Simulator (Whisper)
 * Use Verilator instead of EDAplayground
 * Improve SVA skills
