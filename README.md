@@ -63,10 +63,8 @@ This CPU is from a Cadence "systemverilog for design" course.  I used the RTL on
 
 
 ## Lessons Learned
-* TB reusability is key.
-  * Even for a simple design, huge percentage of time was reprogamming the same components for different IP blocks.
-* Consistency in naming at interfaces seems critical for reusability
-* Plan to try to implement assertions in checker module
+* TB reusability is key; even with such a simple design, a huge percentage of time was reprogamming the same components for different IP blocks.
+* Consistency in naming at interfaces seems critical for reusability.
+* Plan to try to implement assertions in checker module.
 * Need to improve SVA skills, they are marginal.
-* Want to try to implement formal.
 
