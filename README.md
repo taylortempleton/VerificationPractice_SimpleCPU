@@ -34,10 +34,6 @@ This CPU is from a Cadence "systemverilog for design" course.  I used the RTL on
 ![](CPU_schematic.png)
 
 
-## Testbench Architecture
-#Put a picture here!
-
-
 ## EDA Playground Simulations
 I use EDA playground as I do not have access to commercial simulators:
 
@@ -54,6 +50,9 @@ I use EDA playground as I do not have access to commercial simulators:
 Example EDAplayground log.  (Results printed to log instead of exported with Synopsis URG for readability.)
 ![](EDAPlaygroundExampleLog.png)
 
+
+## Testbench Architecture
+#Put a picture here!
 
 ## Verification Plan
 Inspiried by openHW, piziali mehta.
