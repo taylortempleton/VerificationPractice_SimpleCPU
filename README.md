@@ -30,6 +30,7 @@ I created my verification plan based on the following resources:
 
 ([Verification Plan Excel](Draft_VerificationPlan.xlsx)) 
 ![](Draft_Vplan.png)
+
 ![](TrashTest_Copy of Figure_TestbenchArchitecture.png)
 
 
