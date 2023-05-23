@@ -31,7 +31,7 @@ I created my verification plan based on the following resources:
 ([Verification Plan Excel](Draft_VerificationPlan.xlsx)) 
 ![](TrashTest03.png)
 ![](TrashTest02.png)
-![](TrashTest.png)
+
 
 ## Testbench Architecture
 
