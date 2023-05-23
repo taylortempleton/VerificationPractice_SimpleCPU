@@ -5,28 +5,24 @@ Below is my first self-motivated verification project.
 
 I found an extremely simple CPU, created a verification plan, and built a testbench to execute the plan in EDAplayground.
 
-My goals for this project were:
-1. to learn how SV, UVM, SVA, functional coverage and other verification tools work in concert, and
-2. to quickly gain insight into some of the verification challenges I read about (importance of resusability, impact of testbench architecture choices, etc), and
-3. to develop skills to become a competitive applicant for an entry level DV engineering role.
+My goal was to understand how verification concepts (SV, UVM, SVA, functional coverage, etc.) work in concert, and gain insight into some of the verification challenges I read about (importance of resusability, impact of testbench architecture choices, etc).
 
 I am looking for feedback on a few questions, before starting a second, more complex verification project.
-
-Ask: I was hoping for feedback on this project, before starting my 2nd project:
 1. Do you see anything that is clearly incorrect, dumb?
-2. Do you have any comments generally?
-3. Do you think the approach of building increasingly complext testbenches while seeking industry feedback is a reasonable approach to landing a DV engineering role? Is it foolish?
-4. If my next project were to prove that I have the skill to be on your team, are there concepts or methodologies I should incorporate to become a more competitive applicant?  (I am not planning to incorporate generative AI, until I have rock-solid understanding of verification fundamentals, first)
+2. Do you think the approach of building increasingly complext testbenches while seeking industry feedback is a reasonable approach to landing a DV engineering role? Is it foolish?
+3. What skills or concepts would my next project need to demonstrate if it were to prove that I have the skill to be on your team, are there concepts or methodologies I should incorporate to become a more competitive applicant?  (I am not planning to incorporate generative AI, until I have rock-solid understanding of verification fundamentals, first) Current plan
 Is the BOOM core a good project?  
-⋅⋅⋅⋅* Berkeley Out-of-Order Machine (BOOM) Core with Ocelot
-⋅⋅⋅⋅* Instruction Set Set Simulator (Whisper)
-....* Hierarchical
-...* Verilator
+⋅⋅* Berkeley Out-of-Order Machine (BOOM) Core with Ocelot
+⋅⋅* Instruction Set Set Simulator (Whisper)
+..* Hierarchical
+..* Verilator
 
 
 All input is much appreciated.  Thank you!
 
-([Taylor's Current Resume](2023_05_May_22_TaylorTempleton_GithubVersion.pdf)) 
+Taylor Templeton 
+(A Raleigh, NC based engineer and cool dude with a semiconductor fabrication background (process, integration, quality) upskilling to become a competitive applicant for an entry-level design verification role.)
+([Resume](2023_05_May_22_TaylorTempleton_GithubVersion.pdf)) 
 
 ## Simple CPU
 This CPU is from a Cadence "systemverilog for design" course.  I used the RTL only, but built the testbench entirely myself.
