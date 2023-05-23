@@ -1,23 +1,27 @@
-# Verification Practice Project #1: Simple CPU Verification
-## Hello!
+# Verification Practice Project #1: Simple CPU
+## Howdy!
 
 Below is my first self-motivated verification project. 
 
-I found an extremely simple CPU, created a verification plan, and built a testbench to execute the plan.  CPU, plan and simulations are below.
+I found an extremely simple CPU, created a verification plan, and built a testbench to execute the plan using EDAplayground.  The CPU, plan and links to the testbenches+simulations are below.
 
-My goal was to understand how SV, UVM, SVA, functional coverage and other verification tools work in concert, and to quickly gain insight into some of the challenges I read about (the need for resusability and impact of testbench hierarchy choices, for example).
+My goals were:
+1. to understand how SV, UVM, SVA, functional coverage and other verification tools work in concert, 
+2. to quickly gain insight into some of the challenges I read about (the criticality of resusability, and impact of testbench architecture choices, etc),
+3. to create material 
 
 I am hoping to get quick feedback on a few questions, before starting a second more complex, self-assigned project.
-⋅⋅* Berkeley Out-of-Order Machine (BOOM) Core with Ocelot
-..* Instruction Set Set Simulator (Whisper)
-..* Hierarchical
-..* Verilator
 
 Ask: Before starting my 2nd project, I was hoping for feedback on this project, keeping in mind :
 ⋅⋅* Do you see anything that is absolutely awful, incorrect, stupid
 ⋅⋅* Are there other concepts or methodologies I should consider learning to become a more competitive applicant?  (I am not incorporating generative AI, until I have rock-solid understanding of verification fundamentals)
 ⋅⋅* Is this a reasonable approach?
-⋅⋅* Is the BOOM core a good project?  
+⋅⋅⋅* Is the BOOM core a good project?  
+⋅⋅⋅⋅* Berkeley Out-of-Order Machine (BOOM) Core with Ocelot
+⋅⋅⋅⋅* Instruction Set Set Simulator (Whisper)
+....* Hierarchical
+...* Verilator
+
 
 All input is much appreciated.  Thank you!
 
