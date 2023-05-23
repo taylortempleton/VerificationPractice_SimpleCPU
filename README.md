@@ -52,7 +52,7 @@ Example EDAplayground log.  (Results printed to log instead of exported with Syn
 
 
 ## Testbench Architecture
-#Put a picture here!
+![](DraftTestbenchArchitecture.png)
 
 ## Verification Plan
 Inspiried by openHW, piziali mehta.
