@@ -3,14 +3,13 @@
 
 Below is my first self-motivated verification project. 
 
-I found an extremely simple CPU, created a verification plan, and built a testbench to execute the plan using EDAplayground.  The CPU, plan and links to the testbenches+simulations are below.
+I found an extremely simple CPU, created a verification plan, and built a testbench to execute the plan with EDAplayground.  The CPU, plan and links to the testbenches+simulations are below.
 
-My goals were:
+My goals for this project were:
 1. to understand how SV, UVM, SVA, functional coverage and other verification tools work in concert, 
-2. to quickly gain insight into some of the challenges I read about (the criticality of resusability, and impact of testbench architecture choices, etc),
-3. to create material 
+2. to quickly gain insight into some of the verification challenges I read about (importance of resusability, impact of testbench architecture choices, etc),
 
-I am hoping to get quick feedback on a few questions, before starting a second more complex, self-assigned project.
+I am hoping to get quick feedback on a few questions, before starting a second, more complex verification project.
 
 Ask: Before starting my 2nd project, I was hoping for feedback on this project, keeping in mind :
 ⋅⋅* Do you see anything that is absolutely awful, incorrect, stupid
