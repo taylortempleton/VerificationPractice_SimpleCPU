@@ -30,7 +30,7 @@ I created my verification plan based on the following resources:
 
 ([Verification Plan Excel](Draft_VerificationPlan.xlsx)) 
 
-![](TrashTest04.png)
+![](TrastTest04.png)
 
 
 ## Testbench Architecture
