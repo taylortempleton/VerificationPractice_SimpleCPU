@@ -1,21 +1,22 @@
 # Verification Practice Project #1: Simple CPU
 ## Howdy!
 
-Below is my first self-motivated verification project. 
+Below is my first self-motivated verification project.
 
-I found an extremely simple CPU, created a verification plan, and built a testbench to execute the plan in EDAplayground.
+I found an *extremely* simple CPU, created a verification plan, and built a testbench in EDAplayground to execute the plan.
 
-My goal was to understand how verification concepts (SV, UVM, SVA, functional coverage, etc.) work in concert, and gain insight into some of the verification challenges I read about (importance of resusability, impact of testbench architecture choices, etc).
+My goal was to understand how verification tools and concepts (SV, UVM, SVA, functional coverage, etc.) work in concert, and to gain insight into some of the verification challenges I have read about (importance of reusability, impact of testbench architecture choices, etc).
 
-I am looking for feedback on a few questions, before starting a second, more complex verification project.
-1. Do you see anything that is clearly incorrect, dumb?
-2. Do you think the approach of building increasingly complext testbenches while seeking industry feedback is a reasonable approach to landing a DV engineering role? Is it foolish?
+I am looking for feedback, before beginning a second, more complex project:
+1. Do you have any criticism of the verification plan or testbenches?
+2. Do you think the approach of building increasingly complex testbenches while seeking industry feedback is a reasonable approach to landing a DV engineering role, or is it foolish?
 3. What skills or concepts would my next project need to demonstrate if it were to prove that I have the skill to be on your team, are there concepts or methodologies I should incorporate to become a more competitive applicant?  (I am not planning to incorporate generative AI, until I have rock-solid understanding of verification fundamentals, first) Current plan
 Is the BOOM core a good project?  
 * Berkeley Out-of-Order Machine (BOOM) Core with Ocelot
 * Instruction Set Set Simulator (Whisper)
 * Hierarchical
 * Verilator
+* Improve SVA
 
 
 All input is much appreciated.  Thank you!
