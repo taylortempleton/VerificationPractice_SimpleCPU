@@ -12,10 +12,10 @@ I am looking for feedback on a few questions, before starting a second, more com
 2. Do you think the approach of building increasingly complext testbenches while seeking industry feedback is a reasonable approach to landing a DV engineering role? Is it foolish?
 3. What skills or concepts would my next project need to demonstrate if it were to prove that I have the skill to be on your team, are there concepts or methodologies I should incorporate to become a more competitive applicant?  (I am not planning to incorporate generative AI, until I have rock-solid understanding of verification fundamentals, first) Current plan
 Is the BOOM core a good project?  
-⋅⋅* Berkeley Out-of-Order Machine (BOOM) Core with Ocelot
-⋅⋅* Instruction Set Set Simulator (Whisper)
-..* Hierarchical
-..* Verilator
+* Berkeley Out-of-Order Machine (BOOM) Core with Ocelot
+* Instruction Set Set Simulator (Whisper)
+* Hierarchical
+* Verilator
 
 
 All input is much appreciated.  Thank you!
