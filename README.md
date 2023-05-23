@@ -49,5 +49,6 @@ Example EDAplayground log.  (Results printed to log instead of exported with Syn
 
 
 ## Verification Plan
+Inspiried by openHW, piziali mehta.
 ([Verification Plan](Draft_VerificationPlan.xlsx)) 
 ![](Draft_Vplan.png)
