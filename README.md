@@ -1,19 +1,18 @@
 # Verification Practice Project #1: Simple CPU
 
-## Howdy!
+## Hello!
 
-Below is my first self-motivated verification project.
+Below is my self-assigned, first verification project.
 
 I found an *extremely* simple CPU, created a verification plan, and built a testbench in EDAplayground to execute the plan.
 
-My goal was to understand how verification tools and concepts (SV, UVM, SVA, functional coverage, etc.) work in concert, and to gain insight into some of the verification challenges I have read about (importance of reusability, impact of testbench architecture choices, etc).
+My goal was to understand how verification tools (SV, UVM, SVA, functional coverage, etc.) work in concert, and to experience some of the verification challenges I have read about (importance of reusability, impact of testbench architecture choices, etc).
 
-I am looking for feedback, before beginning a second, more complex project:
+I am looking for feedback, before beginning a second more complex project:
 1. Do you have any criticism of the verification plan or testbenches?
-2. Do you think the approach of building increasingly complex testbenches while seeking industry feedback is a reasonable approach to landing a DV engineering role, or is it foolish?
-3. What skills or concepts would my next project need to demonstrate if it were to prove that I have the skill to be on your team, are there concepts or methodologies I should incorporate to become a more competitive applicant?  (I am not planning to incorporate generative AI, until I have rock-solid understanding of verification fundamentals, first) Current plan
-Is the BOOM core a good project?  
-* Berkeley Out-of-Order Machine (BOOM) Core with Ocelot
+2. Do you think the approach of building increasingly complex testbenches is a reasonable approach to landing an entry level DV engineering role?
+3. What skills or concepts or architectures would my next project need to include to give you total confidence I would be a solid entry level addition to your team?
+4. Do you think building a test bench to verify the Berkeley Out-of-Order Machine (BOOM) Core with Ocelot
 * Instruction Set Set Simulator (Whisper)
 * Hierarchical reuse
 * Verilator
@@ -30,13 +29,18 @@ Taylor Templeton
 
 
 ## Simple CPU
-This CPU is from a Cadence "systemverilog for design" course.  I used the RTL only, but built the testbench entirely myself.
+This CPU is from a Cadence "systemverilog for design" course.  I used the RTL only, but built the testbench entirely myself.  For reference, some details are below.
 ![](CPUschematic_Opcodes_Snap.png)
 ![](StatemachineDecode_Snap.png)
 
 
 ## Verification Plan
-Inspiried by openHW, piziali mehta.
+I created my verification plan based on the following resources:
+Andrew Piziali's "Functional Verification Coverage Measurment and Analysis"
+James Peet's  "Verification plans : the five-day verification strategy for modern hardware verification languages"
+The Verification Academy's "UVM Cookbook"
+The OpenHW Group's Core-V Verification Project
+
 ([Verification Plan](Draft_VerificationPlan.xlsx)) 
 ![](Draft_Vplan.png)
 
