@@ -27,12 +27,6 @@ Taylor Templeton
 ([Resume](2023_05_May_22_TaylorTempleton_GithubVersion.pdf)) 
 
 
-## Simple CPU
-This CPU is from a Cadence "systemverilog for design" course.  I used the RTL only, but built the testbench entirely myself.
-![](CPUschematic_Opcodes_Snap.png)
-![](StatemachineDecode_Snap.png)
-
-
 ## Verification Plan
 I created my verification plan based on the following resources:
 * Andrew Piziali's "Functional Verification Coverage Measurment and Analysis"
@@ -66,6 +60,11 @@ I use EDA playground, as I do not have access to commercial simulators:
 
 Example EDAplayground log.  (Results printed to log instead of exported with Synopsis URG for readability.)
 ![](EDAPlaygroundExampleLog.png)
+
+## Simple CPU
+This CPU is from a Cadence "systemverilog for design" course.  I used the RTL only, but built the testbench entirely myself.
+![](CPUschematic_Opcodes_Snap.png)
+![](StatemachineDecode_Snap.png)
 
 
 ## Lessons Learned
