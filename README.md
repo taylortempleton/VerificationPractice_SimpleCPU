@@ -1,17 +1,23 @@
 # Verification Practice Project #1: Simple CPU Verification
 ## Hello!
 
-Below is my first self-motivated verification project.  I am hoping to get quick feedback.
+Below is my first self-motivated verification project. 
 
-My goal was to use an extremely simple CPU to understand how Systemverilog, UVM, SVA, functional coverage verification planning, and other verification methodologies work in concert.
+I found an extremely simple CPU, created a verification plan, and built a testbench to execute the plan.  Both are below.
 
-I will next work on a more complex project, likely verifying parts of the Berkeley Out-of-Order Machine (BOOM) Core.
+My goal was to understand how SV, UVM, SVA, functional coverage and other verification tools work in concert, and to quickly gain insight into some of the challenges I read about (the need for resusability and impact of testbench hierarchy choices, for example).
 
-Before doing so, I am seeking feedback:
-Do you see anything that is absolutely awful?
-Are there other concepts or methodologies I should consider learning to become a more competitive applicant?
-Is this a reasonable approach?
-Is the BOOM core a good project?
+I am hoping to get quick feedback on a few questions, before starting a second more complex, self-assigned project.
+⋅⋅* Berkeley Out-of-Order Machine (BOOM) Core with Ocelot
+..* Instruction Set Set Simulator (Whisper)
+..* Hierarchical
+..* Verilator
+
+Ask: Before starting my 2nd project, I was hoping for feedback on this project, keeping in mind :
+⋅⋅* Do you see anything that is absolutely awful, incorrect, stupid
+⋅⋅* Are there other concepts or methodologies I should consider learning to become a more competitive applicant?  (I am not incorporating generative AI, until I have rock-solid understanding of verification fundamentals)
+⋅⋅* Is this a reasonable approach?
+⋅⋅* Is the BOOM core a good project?  
 
 All input is much appreciated.  Thank you!
 
