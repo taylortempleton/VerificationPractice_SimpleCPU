@@ -2,57 +2,57 @@
 
 ## Hello!
 
-Below is my self-assigned, first verification project.
+Below is my first, and self-assigned, verification project.
 
 I found an *extremely* simple CPU, created a verification plan, and built a testbench in EDAplayground to execute the plan.
 
-My goal was to understand how verification tools (SV, UVM, SVA, functional coverage, etc.) work in concert, and to experience some of the verification challenges I have read about (importance of reusability, impact of testbench architecture choices, etc).
+My goal was to understand how verification tools (SV, UVM, SVA, functional coverage, etc.) work in concert, and to build understanding of some of the challenges practicioners face (importance of reusability, impact of testbench architecture choices, etc).
 
-I am looking for feedback, before beginning a second more complex project:
-1. Do you have any criticism of the verification plan or testbenches?
-2. Do you think the approach of building increasingly complex testbenches is a reasonable approach to landing an entry level DV engineering role?
-3. What skills or concepts or architectures would my next project need to include to give you total confidence I would be a solid entry level addition to your team?
-4. Do you think building a test bench to verify the Berkeley Out-of-Order Machine (BOOM) Core with Ocelot
+I am looking for feedback, before beginning a second, more complex project:
+1. Do you have any criticism of the verification plan or testbenches below?
+2. Do you think building increasingly complex testbenches is a reasonable approach to landing an entry level DV engineering role?
+3. What skills or concepts or architectures would my next project need to include to give you total confidence I would be a solid entry-level addition to your team?  In my next project I plan to incorporate:
+* Berkeley Out-of-Order Machine (BOOM) Core with Ocelot vector unit
 * Instruction Set Set Simulator (Whisper)
-* Hierarchical reuse
-* Verilator
+* Use Verilator instead of EDAplayground
 * Improve SVA skills
-* RISC ISA testing
+* Focus on building hierarchical reusable components
 
 All input is much appreciated.  Thank you!
 
 Taylor Templeton 
 
-(A Raleigh, NC based engineer and cool dude with a semiconductor fabrication background (process, integration, quality) upskilling to become a competitive applicant for an entry-level design verification role.)
+(I am a Raleigh, NC based engineer with a semiconductor fabrication background (process, integration, quality) reskilling to apply for an entry-level design verification role.)
 
 ([Resume](2023_05_May_22_TaylorTempleton_GithubVersion.pdf)) 
 
 
 ## Simple CPU
-This CPU is from a Cadence "systemverilog for design" course.  I used the RTL only, but built the testbench entirely myself.  For reference, some details are below.
+This CPU is from a Cadence "systemverilog for design" course.  I used the RTL only, but built the testbench entirely myself.
 ![](CPUschematic_Opcodes_Snap.png)
 ![](StatemachineDecode_Snap.png)
 
 
 ## Verification Plan
 I created my verification plan based on the following resources:
-Andrew Piziali's "Functional Verification Coverage Measurment and Analysis"
-James Peet's  "Verification plans : the five-day verification strategy for modern hardware verification languages"
-The Verification Academy's "UVM Cookbook"
-The OpenHW Group's Core-V Verification Project
+* Andrew Piziali's "Functional Verification Coverage Measurment and Analysis"
+* James Peet's  "Verification plans : the five-day verification strategy for modern hardware verification languages"
+* The Siemens' Verification Academy's "UVM Cookbook" and "Coverage Cookbook"
+* The OpenHW Group's Core-V Verification Project verification plans
 
 ([Verification Plan](Draft_VerificationPlan.xlsx)) 
 ![](Draft_Vplan.png)
 
 
 ## Testbench Architecture
-UVM_cookbook, OpenHW tb, Cadence online training.
+I created my testbench architecture based on the following resources:
+* The Siemens' Verification Academy's "UVM Cookbook" and "Coverage Cookbook"
 
 ![](DraftTestbenchArchitecture_Complete.png)
 
 
 ## EDA Playground Simulations
-I use EDA playground as I do not have access to commercial simulators:
+I use EDA playground, as I do not have access to commercial simulators:
 
 | Block                | EDA Playground Simulation            |
 |----------------------|--------------------------------------|
