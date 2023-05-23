@@ -56,6 +56,7 @@ I use EDA playground, as I do not have access to commercial simulators:
 
 Example EDAplayground log.  (Results printed to log instead of exported with Synopsis URG for readability.)
 ![](EDAPlaygroundExampleLog.png)
+![](EDAPlaygroundExample_MarkedUp.png)
 
 ## Simple CPU
 
