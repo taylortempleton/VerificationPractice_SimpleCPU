@@ -6,7 +6,7 @@ Below is my first, and self-assigned, verification project.
 
 I found an extremely simple CPU, created a verification plan, and built a testbench in EDAplayground to execute the plan.
 
-My goal was to understand how verification tools (SV, UVM, SVA, functional coverage, etc.) work in concert, before attempting a more complex DUT.
+My goal was to understand how verification tools (SV, UVM, SVA, functional coverage, etc.) work in concert, before attempting a more complex testbench and DUT.
 
 I am looking for feedback, before beginning another project:
 1. Do you have any criticism of the verification plan or testbenches below?
