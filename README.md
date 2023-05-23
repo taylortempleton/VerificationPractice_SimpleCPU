@@ -1,4 +1,5 @@
 # Verification Practice Project #1: Simple CPU
+
 ## Howdy!
 
 Below is my first self-motivated verification project.
@@ -14,10 +15,10 @@ I am looking for feedback, before beginning a second, more complex project:
 Is the BOOM core a good project?  
 * Berkeley Out-of-Order Machine (BOOM) Core with Ocelot
 * Instruction Set Set Simulator (Whisper)
-* Hierarchical
+* Hierarchical reuse
 * Verilator
-* Improve SVA
-
+* Improve SVA skills
+* RISC ISA testing
 
 All input is much appreciated.  Thank you!
 
@@ -27,12 +28,15 @@ Taylor Templeton
 
 ([Resume](2023_05_May_22_TaylorTempleton_GithubVersion.pdf)) 
 
+
 ## Simple CPU
 This CPU is from a Cadence "systemverilog for design" course.  I used the RTL only, but built the testbench entirely myself.
 ![](CPU_schematic.png)
 
+
 ## Testbench Architecture
 #Put a picture here!
+
 
 ## EDA Playground Simulations
 I use EDA playground as I do not have access to commercial simulators:
