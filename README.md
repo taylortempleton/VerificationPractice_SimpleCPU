@@ -35,7 +35,7 @@ I work within EDA playground, as I do not have access to commercial simulators a
 | Controller Block     | https://www.edaplayground.com/x/L57G |
 | ALU Block            | https://www.edaplayground.com/x/JT9j |
 | Memory Block         | https://www.edaplayground.com/x/K4_Z |
-| Full CPU             | https://www.edaplayground.com/x/hBNp |
+| **Full CPU**         | https://www.edaplayground.com/x/hBNp |
 
 Example EDAplayground log.  Results printed to log instead of exported with Synopsis URG for readability.
 ![](EDAPlaygroundExample_MarkedUp.png)
