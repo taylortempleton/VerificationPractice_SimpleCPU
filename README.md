@@ -37,13 +37,18 @@ I created my verification plan based on the following resources:
 
 I created my testbench architecture based on the following resources:
 * The Siemens' Verification Academy's "UVM Cookbook" and "Coverage Cookbook"
+* "Getting Started with UVM: A Beginner's Guide" by Vanessa Cooper
 
+Block-Level Testbench
 ![](DraftTestbenchArchitecture_Complete.png)
 
+CPU-Level Testbench
+#CPU-Level Testbench
+![](DraftTestbenchArchitecture_Complete.png)
 
 ## EDA Playground Simulations
 
-I use EDA playground, as I do not have access to commercial simulators:
+I work within EDA playground, as I do not have access to commercial simulators and there is no EDAPlayground/Github sync available.
 
 | Block                | EDA Playground Simulation            |
 |----------------------|--------------------------------------|
@@ -53,7 +58,7 @@ I use EDA playground, as I do not have access to commercial simulators:
 | Controller Block     | https://www.edaplayground.com/x/L57G |
 | ALU Block            | https://www.edaplayground.com/x/JT9j |
 | Memory Block         | https://www.edaplayground.com/x/K4_Z |
-| Entire CPU           | https://www.edaplayground.com/x/hBNp |
+| Full CPU             | https://www.edaplayground.com/x/hBNp |
 
 Example EDAplayground log.  (Results printed to log instead of exported with Synopsis URG for readability.)
 ![](EDAPlaygroundExample_MarkedUp.png)
