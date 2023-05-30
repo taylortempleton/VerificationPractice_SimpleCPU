@@ -2,7 +2,13 @@
 
 ## Hello!
 
-I've used an extremely simple CPU to create a verification plan, build a testbench in EDAplayground, and execute the plan.
+I am hoping for feedback on my below self-assigned verification project.  
+
+I am a Raleigh, NC based engineer with a semiconductor fabrication background, reskilling in hopes of landing an entry-level design verification role. ([Resume](2023_05_May_25_TaylorTempleton_GithubVersion.pdf))  
+
+This project is my first step in building a verification portfolio.
+
+The project: Use an extremely simple CPU to create a verification plan, build a testbench in EDAplayground, and execute the plan.
 
 The goal: to build understanding of how verification tools work together (SV, UVM, SVA, functional coverage, etc.), before attempting a more complex project.
 
@@ -14,11 +20,7 @@ The ask: I am looking for feedback.
 All input is much appreciated.  Thank you!
 
 Taylor Templeton 
-
-(I am a Raleigh, NC based engineer with a semiconductor fabrication background, reskilling in hopes of landing an entry-level design verification role. ([Resume](2023_05_May_25_TaylorTempleton_GithubVersion.pdf))  This project is my first step in building a verification portfolio.)
-
-
-
+taylor.templeton@gmail.com
 
 ## Verification Plan
 
