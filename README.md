@@ -47,10 +47,10 @@ I use EDA playground, as I do not have access to commercial simulators:
 
 | Block                | EDA Playground Simulation            |
 |----------------------|--------------------------------------|
-| Register Block       | https://www.edaplayground.com/x/d_zE |
+| Register Block       | https://www.edaplayground.com/x/Y5kQ |
 | MUX Block            | https://www.edaplayground.com/x/v_VC |
 | Counter Block        | https://www.edaplayground.com/x/wXAi |
-| Controller Block     | https://www.edaplayground.com/x/abRt |
+| Controller Block     | https://www.edaplayground.com/x/L57G |
 | ALU Block            | https://www.edaplayground.com/x/JT9j |
 | Memory Block         | https://www.edaplayground.com/x/K4_Z |
 | Entire CPU           | https://www.edaplayground.com/x/hBNp |
