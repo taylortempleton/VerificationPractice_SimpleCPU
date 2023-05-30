@@ -2,15 +2,13 @@
 
 ## Hello!
 
-I am hoping for feedback on my below self-assigned verification project.  
-
 I am a Raleigh, NC based engineer with a semiconductor fabrication background, reskilling in hopes of landing an entry-level design verification role. ([Resume](2023_05_May_25_TaylorTempleton_GithubVersion.pdf))  This project is my first step in building a verification portfolio.
 
 The project: Identify an extremely simple CPU, create a verification plan, build a testbench in EDAplayground, and execute the plan.
 
 The goal: to build understanding of how verification tools work together (SV, UVM, SVA, functional coverage, etc.), before attempting a more complex project.
 
-The ask: I am looking for feedback.
+I am looking for feedback:
   1. Do you have any criticism of the verification plan, testbenches or simulations below?
   2. Do you think building increasingly complex testbenches is a reasonable approach to landing an entry level DV engineering role?  
   3. Are there any skills, methodologies or architectures my next project could incorporate to demonstrate I am prepared to contribute in an entry-level DV engineer?  For my next project I am considering focusing on Berkley’s OoO risc-v BOOMcore.
