@@ -15,7 +15,7 @@ The goal: to build understanding of how verification tools work together (SV, UV
 The ask: I am looking for feedback.
   1. Do you have any criticism of the verification plan, testbenches or simulations below?
   2. Do you think building a portfolio of increasingly complex testbenches is a reasonable approach to landing an entry level DV engineering role?  
-  3. Are there any skills, methodologies or architectures my next project could incorporate to demonstrate I am prepared to contribute in an entry-level DV engineer?  For my next project I am considering focusing on Berkley’s OoO risc-v BOOMcore.
+  3. Are there any skills, methodologies or architectures my next project could incorporate to demonstrate I am prepared to contribute in an entry-level DV engineer?  For my next project I am considering focusing on Berkley’s OoO risc-v BOOM core.
 
 All input is much appreciated.  Thank you!
 
