@@ -33,11 +33,9 @@ I created my verification plan guided by the resources cited at bottom.
 
 I created my testbench architecture guided by the resources cited at bottom.
 
-# Block-Level Testbench
+# Testbench Architecture
 ![](DraftTestbenchArchitecture_Complete.png)
 
-# CPU-Level Testbench
-![](DraftTestbenchArchitecture_Complete.png)
 
 ## EDA Playground Simulations
 
