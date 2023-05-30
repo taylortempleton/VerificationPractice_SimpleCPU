@@ -13,7 +13,7 @@ I am hoping for feedback on my below self-assigned verification project.
 **The ask:** I am looking for feedback.
   1. Do you have any criticism of the verification plan or testbenches below?  Absolutely all criticism appreciated.
   2. Do you think building projects is a reasonable approach to landing an entry level DV engineering role?  
-  3. Are there any skills, methodologies or architectures my next project could incorporate to demonstrate I have the drive and potential to contribute as an entry-level DV engineer?  I am still scoping the next project, but plan to use UC Berkley’s OoO risc-v BOOM core to learn build something more resuable at the block and system level. 
+  3. Are there any skills, methodologies or architectures my next project could incorporate to demonstrate I have the drive and potential to contribute as an entry-level DV engineer?  I am still scoping the next project, but plan to use UC Berkley’s OoO risc-v BOOM core to learn how to build something more resuable at the block and system level. 
 
 All input is much appreciated.  Thank you!
 
