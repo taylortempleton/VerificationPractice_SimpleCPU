@@ -22,22 +22,6 @@ All input is much appreciated.  Thank you!
 Taylor Templeton
 taylor.templeton@gmail.com
 
-## Verification Plan
-
-I created my verification plan guided by the resources cited at bottom.
-
-([Verification Plan Excel](Draft_VerificationPlan.xlsx)) 
-
-![](VerificationPlanSummary04.png)
-
-
-## Testbench Architecture
-
-I created my testbench architecture guided by the resources cited at bottom.
-
-# Testbench Architecture
-![](DraftTestbenchArchitecture_Complete.png)
-
 
 ## EDA Playground Simulations
 
@@ -55,6 +39,23 @@ I work within EDA playground, as I do not have access to commercial simulators a
 
 Example EDAplayground log.  Results printed to log instead of exported with Synopsis URG for readability.
 ![](EDAPlaygroundExample_MarkedUp.png)
+
+
+## Verification Plan
+
+I created my verification plan guided by the resources cited at bottom.
+
+([Verification Plan Excel](Draft_VerificationPlan.xlsx)) 
+
+![](VerificationPlanSummary04.png)
+
+
+## Testbench Architecture
+
+I created my testbench architecture guided by the resources cited at bottom.
+
+# Testbench Architecture
+![](DraftTestbenchArchitecture_Complete.png)
 
 
 ## Simple CPU
