@@ -2,31 +2,29 @@
 
 ## Hello!
 
-Below is my first, and self-assigned, verification project.
+I am hoping for feedback on my below self-assigned verification project.  
 
-I found an extremely simple CPU, created a verification plan, built a testbench in EDAplayground, and executed the verification plan.
+I am a Raleigh, NC based engineer with a semiconductor fabrication background, reskilling in hopes of landing an entry-level design verification role. [Resume](2023_05_May_25_TaylorTempleton_GithubVersion.pdf)  This project is my first step in building a verification portfolio.
 
-My goal was to understand how verification tools (SV, UVM, SVA, functional coverage, etc.) work in concert, before attempting a more complex testbench and DUT.
+The project: Identify an extremely simple CPU, create a verification plan, build a testbench in EDAplayground, and execute the plan.
 
-I am looking for feedback, before beginning another project:
-1. Do you have any thoughts or criticism of the verification plan, testbenches or simulations below?
-2. Are there any skills, methodologies or architectures my next project could incorporate to demonstrate I could contribute as an entry-level DV engineer?  Next, I plan to try to verify aspects of the Berkeley Out-of-Order Machine (BOOM) Core with the Ocelot vector unit.
-3. Do you think building increasingly complex testbenches is a reasonable approach to landing an entry level DV engineering role?  
+The goal: to build understanding of how verification tools work together (SV, UVM, SVA, functional coverage, etc.), before attempting a more complex project.
+
+I am looking for feedback:
+1. Do you have any criticism of the verification plan, testbenches or simulations below?
+2. Do you think building increasingly complex testbenches is a reasonable approach to landing an entry level DV engineering role?  
+3. Are there any skills, methodologies or architectures my next project could incorporate to demonstrate I am prepared to contribute in an entry-level DV engineer?  For my next project I am considering focusing on Berkley’s OoO risc-v BOOMcore.
 
 All input is much appreciated.  Thank you!
 
 Taylor Templeton 
 
-(I am a Raleigh, NC based engineer with a semiconductor fabrication background, reskilling in hopes of landing an entry-level design verification role. [Resume](2023_05_May_25_TaylorTempleton_GithubVersion.pdf)) 
+
 
 
 ## Verification Plan
 
-I created my verification plan based on the following resources:
-* Andrew Piziali's "Functional Verification Coverage Measurment and Analysis"
-* James Peet's  "Verification plans : the five-day verification strategy for modern hardware verification languages"
-* The Siemens' Verification Academy's "UVM Cookbook" and "Coverage Cookbook"
-* The OpenHW Group's Core-V Verification Project verification plans
+I created my verification plan guided by the resources cited at bottom.
 
 ([Verification Plan Excel](Draft_VerificationPlan.xlsx)) 
 
@@ -35,20 +33,18 @@ I created my verification plan based on the following resources:
 
 ## Testbench Architecture
 
-I created my testbench architecture based on the following resources:
-* The Siemens' Verification Academy's "UVM Cookbook" and "Coverage Cookbook"
-* "Getting Started with UVM: A Beginner's Guide" by Vanessa Cooper
+I created my testbench architecture guided by the resources cited at bottom.
 
-Block-Level Testbench
+
+# Block-Level Testbench
 ![](DraftTestbenchArchitecture_Complete.png)
 
-CPU-Level Testbench
-#CPU-Level Testbench
+# CPU-Level Testbench
 ![](DraftTestbenchArchitecture_Complete.png)
 
 ## EDA Playground Simulations
 
-I work within EDA playground, as I do not have access to commercial simulators and there is no EDAPlayground/Github sync available.
+I work within EDA playground, as I do not have access to commercial simulators and there is no EDAPlayground/Github sync.
 
 | Block                | EDA Playground Simulation            |
 |----------------------|--------------------------------------|
@@ -66,7 +62,8 @@ Example EDAplayground log.  (Results printed to log instead of exported with Syn
 
 ## Simple CPU
 
-This CPU is from a Cadence "systemverilog for design" course.  I used the RTL only, but built the testbench entirely myself.
+This CPU RTL comes from a Cadence "Systemverilog for Design" course.  I used the RTL, but built the testbench myself.
+
 ![](CPUschematic_Opcodes_Snap.png)
 ![](StatemachineDecode_Snap.png)
 
@@ -77,4 +74,12 @@ This CPU is from a Cadence "systemverilog for design" course.  I used the RTL on
 * Consistency in naming at interfaces seems critical for reusability.
 * Plan to try to implement assertions in checker module.
 * Need to improve SVA skills, they are marginal.
+
+## Sources
+While this project is self-driven/assigned, I would not want to take credit for the sources upon which I drew:
+* Andrew Piziali's "Functional Verification Coverage Measurment and Analysis"
+* James Peet's  "Verification plans : the five-day verification strategy for modern hardware verification languages"
+* The Siemens' Verification Academy's "UVM Cookbook" and "Coverage Cookbook"
+* The OpenHW Group's Core-V Verification Project verification plans
+* "Getting Started with UVM: A Beginner's Guide" by Vanessa Cooper
 
