@@ -19,7 +19,7 @@ The ask: I am looking for feedback.
 
 All input is much appreciated.  Thank you!
 
-Taylor Templeton 
+Taylor Templeton
 taylor.templeton@gmail.com
 
 ## Verification Plan
