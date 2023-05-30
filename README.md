@@ -17,7 +17,7 @@ All input is much appreciated.  Thank you!
 
 Taylor Templeton 
 
-(I am a Raleigh, NC based engineer with a semiconductor fabrication background reskilling to apply for an entry-level design verification role. [Resume](2023_05_May_25_TaylorTempleton_GithubVersion.pdf)) 
+(I am a Raleigh, NC based engineer with a semiconductor fabrication background, reskilling in hopes of landing an entry-level design verification role. [Resume](2023_05_May_25_TaylorTempleton_GithubVersion.pdf)) 
 
 
 ## Verification Plan
