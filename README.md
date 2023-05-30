@@ -4,13 +4,13 @@
 
 I am hoping for feedback on my below self-assigned verification project.  
 
-The plan: Complete a set of self-assigned verification projects (create plans and testbenches), to produce a 'verification portfolio' to be used to apply for entry level verification positions.
+**The plan:** complete a set of self-assigned verification projects, to produce a 'verification portfolio' (or verification plans and testbenches) to be used to apply for entry level verification positions.
 
-The project: This is the first such project. I used an extremely simple CPU to create a verification plan, build a testbench in EDAplayground, and execute the plan.
+**The project:** This is the first such project. I used an extremely simple CPU to create a verification plan, build a testbench in EDAplayground, and execute the plan.
 
-The goal: to build my understanding of how verification tools work together (SV, UVM, SVA, functional coverage, etc.), before attempting a more complex project.
+**The goal:** to build my understanding of how verification tools work together (SV, UVM, SVA, functional coverage, etc.), before attempting a more complex project.
 
-The ask: I am looking for feedback.
+**The ask:** I am looking for feedback.
   1. Do you have any criticism of the verification plan or testbenches below?  Absolutely all criticism appreciated.
   2. Do you think building projects is a reasonable approach to landing an entry level DV engineering role?  
   3. Are there any skills, methodologies or architectures my next project could incorporate to demonstrate I have the drive and potential to contribute as an entry-level DV engineer?  I am still scoping the next project, but plan to use UC Berkley’s OoO risc-v BOOM core to learn build something more resuable at the block and system level. 
