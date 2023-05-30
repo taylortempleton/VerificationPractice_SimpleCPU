@@ -47,13 +47,13 @@ I use EDA playground, as I do not have access to commercial simulators:
 
 | Block                | EDA Playground Simulation            |
 |----------------------|--------------------------------------|
-| Whole CPU            |                                      |
-| Register             | https://www.edaplayground.com/x/d_zE |
-| MUX                  | https://www.edaplayground.com/x/v_VC |
-| Counter              | https://www.edaplayground.com/x/wXAi |
-| Sequencer Controller | https://www.edaplayground.com/x/abRt |
-| ALU                  | https://www.edaplayground.com/x/JT9j |
-| Memory               | https://www.edaplayground.com/x/K4_Z |
+| Register Block       | https://www.edaplayground.com/x/d_zE |
+| MUX Block            | https://www.edaplayground.com/x/v_VC |
+| Counter Block        | https://www.edaplayground.com/x/wXAi |
+| Controller Block     | https://www.edaplayground.com/x/abRt |
+| ALU Block            | https://www.edaplayground.com/x/JT9j |
+| Memory Block         | https://www.edaplayground.com/x/K4_Z |
+| Entire CPU           | https://www.edaplayground.com/x/hBNp |
 
 Example EDAplayground log.  (Results printed to log instead of exported with Synopsis URG for readability.)
 ![](EDAPlaygroundExample_MarkedUp.png)
