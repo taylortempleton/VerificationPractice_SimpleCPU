@@ -4,16 +4,16 @@
 
 I am hoping for feedback on my below self-assigned verification project.  
 
-I am a Raleigh, NC based engineer with a semiconductor fabrication background, reskilling in hopes of landing an entry-level design verification role. [Resume](2023_05_May_25_TaylorTempleton_GithubVersion.pdf)  This project is my first step in building a verification portfolio.
+I am a Raleigh, NC based engineer with a semiconductor fabrication background, reskilling in hopes of landing an entry-level design verification role. ([Resume](2023_05_May_25_TaylorTempleton_GithubVersion.pdf))  This project is my first step in building a verification portfolio.
 
 The project: Identify an extremely simple CPU, create a verification plan, build a testbench in EDAplayground, and execute the plan.
 
 The goal: to build understanding of how verification tools work together (SV, UVM, SVA, functional coverage, etc.), before attempting a more complex project.
 
-I am looking for feedback:
-1. Do you have any criticism of the verification plan, testbenches or simulations below?
-2. Do you think building increasingly complex testbenches is a reasonable approach to landing an entry level DV engineering role?  
-3. Are there any skills, methodologies or architectures my next project could incorporate to demonstrate I am prepared to contribute in an entry-level DV engineer?  For my next project I am considering focusing on Berkley’s OoO risc-v BOOMcore.
+The ask: I am looking for feedback.
+  1. Do you have any criticism of the verification plan, testbenches or simulations below?
+  2. Do you think building increasingly complex testbenches is a reasonable approach to landing an entry level DV engineering role?  
+  3. Are there any skills, methodologies or architectures my next project could incorporate to demonstrate I am prepared to contribute in an entry-level DV engineer?  For my next project I am considering focusing on Berkley’s OoO risc-v BOOMcore.
 
 All input is much appreciated.  Thank you!
 
@@ -35,7 +35,6 @@ I created my verification plan guided by the resources cited at bottom.
 
 I created my testbench architecture guided by the resources cited at bottom.
 
-
 # Block-Level Testbench
 ![](DraftTestbenchArchitecture_Complete.png)
 
@@ -56,7 +55,7 @@ I work within EDA playground, as I do not have access to commercial simulators a
 | Memory Block         | https://www.edaplayground.com/x/K4_Z |
 | Full CPU             | https://www.edaplayground.com/x/hBNp |
 
-Example EDAplayground log.  (Results printed to log instead of exported with Synopsis URG for readability.)
+Example EDAplayground log.  Results printed to log instead of exported with Synopsis URG for readability.
 ![](EDAPlaygroundExample_MarkedUp.png)
 
 
