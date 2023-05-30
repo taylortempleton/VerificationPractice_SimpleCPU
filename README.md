@@ -65,7 +65,7 @@ This CPU RTL comes from a Cadence "Systemverilog for Design" course.  I used the
 ![](StatemachineDecode_Snap.png)
 
 
-## Lessons Learned
+## Lessons Learned / Next Steps
 
 * TB reusability is key; even with such a simple design, a huge percentage of time was reprogamming the same components for different IP blocks.
 * Consistency in naming at interfaces seems critical for reusability.
