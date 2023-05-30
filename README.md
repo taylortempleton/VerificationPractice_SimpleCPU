@@ -4,7 +4,7 @@
 
 I am hoping for feedback on my below self-assigned verification project.  
 
-**The plan:** complete a set of self-assigned verification projects, to produce a 'verification portfolio' (or verification plans and testbenches) to be used to apply for entry level verification positions.
+**The plan:** complete a set of self-assigned verification projects, to produce a 'portfolio' (of verification plans and testbenches) to be used to apply for entry level verification positions.
 
 **The project:** This is the first such project. I used an extremely simple CPU to create a verification plan, build a testbench in EDAplayground, and execute the plan.
 
