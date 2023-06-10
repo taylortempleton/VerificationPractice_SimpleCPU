@@ -41,9 +41,9 @@ I am a Raleigh, NC based engineer with a semiconductor fabrication background, r
 Example EDAplayground log.  Results printed to log instead of exported with Synopsis URG for readability.
 ![](https://github.com/taylortempleton/VerificationPractice_SimpleCPU/blob/main/Docs/EDAPlaygroundExample_MarkedUp.png)
 
-## Verilator Simulation
+## Verilator Simulations
 
-(Verilator development in progress. ECD 6/17)
+(In progress. ECD 6/17)
 
 
 ## Verification Plan
