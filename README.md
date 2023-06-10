@@ -38,16 +38,16 @@ I am a Raleigh, NC based engineer with a semiconductor fabrication background, r
 | **Full CPU**         | https://www.edaplayground.com/x/hBNp |
 
 Example EDAplayground log.  Results printed to log instead of exported with Synopsis URG for readability.
-![](EDAPlaygroundExample_MarkedUp.png)
+![](https://github.com/taylortempleton/VerificationPractice_SimpleCPU/blob/main/Docs/EDAPlaygroundExample_MarkedUp.png)
 
 
 ## Verification Plan
 
 I created my verification plan guided by the resources cited at bottom.
 
-([Verification Plan Excel](Draft_VerificationPlan.xlsx)) 
+([Verification Plan Excel](https://github.com/taylortempleton/VerificationPractice_SimpleCPU/blob/main/Docs/Draft_VerificationPlan.xlsx)) 
 
-![](VerificationPlanSummary04.png)
+![](https://github.com/taylortempleton/VerificationPractice_SimpleCPU/blob/main/Docs/VerificationPlanSummary04.png)
 
 
 ## Testbench Architecture
@@ -55,15 +55,15 @@ I created my verification plan guided by the resources cited at bottom.
 I created my testbench architecture guided by the resources cited at bottom.
 
 # Testbench Architecture
-![](DraftTestbenchArchitecture_Complete.png)
+![](https://github.com/taylortempleton/VerificationPractice_SimpleCPU/blob/main/Docs/DraftTestbenchArchitecture_Complete.png)
 
 
 ## Simple CPU
 
 This CPU RTL comes from a Cadence "Systemverilog for Design" course.  I used the RTL, but built the testbench myself.
 
-![](CPUschematic_Opcodes_Snap.png)
-![](StatemachineDecode_Snap.png)
+![](https://github.com/taylortempleton/VerificationPractice_SimpleCPU/blob/main/Docs/CPUschematic_Opcodes_Snap.png)
+![](https://github.com/taylortempleton/VerificationPractice_SimpleCPU/blob/main/Docs/StatemachineDecode_Snap.png)
 
 
 ## Lessons Learned / Next Steps
