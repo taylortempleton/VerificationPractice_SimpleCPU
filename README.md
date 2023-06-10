@@ -54,7 +54,6 @@ I created my verification plan guided by the resources cited at bottom.
 
 I created my testbench architecture guided by the resources cited at bottom.
 
-# Testbench Architecture
 ![](https://github.com/taylortempleton/VerificationPractice_SimpleCPU/blob/main/Docs/DraftTestbenchArchitecture_Complete.png)
 
 
