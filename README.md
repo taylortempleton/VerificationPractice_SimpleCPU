@@ -22,9 +22,6 @@ taylor.templeton@gmail.com
 
 I am a Raleigh, NC based engineer with a semiconductor fabrication background, reskilling in hopes of landing an entry-level design verification role. ([Resume](https://github.com/taylortempleton/VerificationPractice_SimpleCPU/blob/main/Docs/2023_05_May_30_TaylorTempleton_GithubVersion.pdf))
 
-## Verilator Simulation
-
-6/10: Verilator development in progress. ECD 6/12
 
 ## EDA Playground Simulations
 
@@ -43,6 +40,10 @@ I am a Raleigh, NC based engineer with a semiconductor fabrication background, r
 
 Example EDAplayground log.  Results printed to log instead of exported with Synopsis URG for readability.
 ![](https://github.com/taylortempleton/VerificationPractice_SimpleCPU/blob/main/Docs/EDAPlaygroundExample_MarkedUp.png)
+
+## Verilator Simulation
+
+(Verilator development in progress. ECD 6/17)
 
 
 ## Verification Plan
