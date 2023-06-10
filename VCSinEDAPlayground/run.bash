@@ -1,0 +1,1 @@
+vcs -licqueue '-timescale=1ns/1ns' '+vcs+flush+all' '+warn=all' '-sverilog' '-f' 'compile_file.f' +incdir+$UVM_HOME/src $UVM_HOME/src/uvm.sv $UVM_HOME/src/dpi/uvm_dpi.cc -CFLAGS -DVCS cpu.sv cpu_testbench_top.sv  && ./simv +vcs+lic+wait '-access' '+rw' '+UVM_VERBOSITY=UVM_MEDIUM'  

@@ -1,0 +1,57 @@
+global coverage_group 0 testbench_pkg::cpu_cov_class::cg_dummy __coverage_cpu_cov_class.cg_dummy unused_cpu_cov_class_cg_dummy_loop_label testbench_pkg 0 1 0 0 0  ( 0 
+)
+ 1 1
+ 35 /home/runner/functional_coverage.sv
+ 16 0 0 0 1 0 0 0 0  1
+0
+0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 113 testbench_pkg_cpu_cov_class_11_0::testbench_pkg_cpu_cov_class_11_0_testbench_pkg_cpu_cov_class_11_0_cg_dummy_fn_2
+ 0
+ 0
+0
+0
+0
+64
+0
+ 0
+
+1
+0
+0
+0
+ 8 cp_dummy 21 0 0 0 0 0 111 testbench_pkg_cpu_cov_class_11_0::testbench_pkg_cpu_cov_class_11_0_testbench_pkg_cpu_cov_class_11_0_cg_dummy_fn 111 testbench_pkg_cpu_cov_class_11_0::testbench_pkg_cpu_cov_class_11_0_testbench_pkg_cpu_cov_class_11_0_cg_dummy_fn 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 5 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 1 1 1 0 0 1 1 7 b_dummy 22 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 113 testbench_pkg_cpu_cov_class_11_0::testbench_pkg_cpu_cov_class_11_0_testbench_pkg_cpu_cov_class_11_0_cg_dummy_fn_0 0 113 testbench_pkg_cpu_cov_class_11_0::testbench_pkg_cpu_cov_class_11_0_testbench_pkg_cpu_cov_class_11_0_cg_dummy_fn_1 0 0 0 0 0
+ 0
+
+end_coverage_group
