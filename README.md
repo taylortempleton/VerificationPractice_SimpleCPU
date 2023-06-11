@@ -4,17 +4,17 @@
 
 I am hoping for feedback on my below self-assigned verification project.  
 
-**The plan:** Complete a series of self-assigned verification projects, to produce a 'verfication portfolio' to be used to apply for entry level verification positions.
+**The plan:** Complete a series of verification projects, to be used to apply for entry-level verification positions.
 
-**The project:** This is the first such project: draft a block-level verification plan, and verify an extremely simple CPU with a SV/UVM testbench built in EDAplayground.
+**The project:** Verify a simple CPU.  Draft a block-level vplan, build a SV/UVM testbench in EDAPlayground, and execute the plan.
 
-**The goal:** Develop an understanding of how verification tools and concepts work together (SV, UVM, SV Assertions, functional coverage, etc.), before attempting a more complex project.
+**The project goal:** Develop an understanding of how verification tools and concepts work together (SV, UVM, SV Assertions, functional coverage, etc.), before attempting more complex projects.
 
 **The ask:** I am looking for feedback.
   1. Do you have any criticism of the below project?
   2. Do you think building verification projects is a reasonable approach to landing an entry level DV engineering role?  
 
-I will next to verify the data and control paths of a pipelined CPU (OpenHW’s 4-stage in-order risc-v cv32e40p core), to improve my verification skills and understanding of CPU architecture. 
+I will next to verify the data and control paths of a pipelined CPU (OpenHW’s 4-stage in-order risc-v cv32e40p core, still using EDAPlayground), to improve my verification skills and understanding of CPU architecture. 
 
 All input is much appreciated.  Thank you!
 
