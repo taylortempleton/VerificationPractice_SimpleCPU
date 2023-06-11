@@ -27,7 +27,7 @@ I am a Raleigh, NC based engineer with a semiconductor fabrication background re
 ## EDA Playground Simulations
 
 *I work within EDA playground, as I do not have access to commercial simulators and there is no EDAPlayground/Github sync.  
-*Unfortunately, EDA Playground itself is often laggy. All sims last confirmed functional as-is 5/30.
+*Unfortunately, EDA Playground itself is often laggy. All sims last confirmed functional 6/11.
 
 | Block                | EDA Playground Simulation            |
 |----------------------|--------------------------------------|
