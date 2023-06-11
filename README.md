@@ -31,13 +31,14 @@ I am a Raleigh, NC based engineer with a semiconductor fabrication background re
 
 | Block                | EDA Playground Simulation            |
 |----------------------|--------------------------------------|
+| **Full CPU**         | https://www.edaplayground.com/x/hBNp |
 | Register Block       | https://www.edaplayground.com/x/Y5kQ |
 | MUX Block            | https://www.edaplayground.com/x/v_VC |
 | Counter Block        | https://www.edaplayground.com/x/wXAi |
 | Controller Block     | https://www.edaplayground.com/x/L57G |
 | ALU Block            | https://www.edaplayground.com/x/JT9j |
 | Memory Block         | https://www.edaplayground.com/x/K4_Z |
-| **Full CPU**         | https://www.edaplayground.com/x/hBNp |
+
 
 Example EDAplayground log.  Results printed to log instead of exported with Synopsis URG for readability.
 ![](https://github.com/taylortempleton/VerificationPractice_SimpleCPU/blob/main/Docs/EDAPlaygroundExample_MarkedUp.png)
