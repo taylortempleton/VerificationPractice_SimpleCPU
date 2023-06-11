@@ -4,23 +4,24 @@
 
 I am hoping for feedback on my below self-assigned verification project.  
 
-**The plan:** complete a set of self-assigned verification projects, to produce a 'portfolio' (of verification plans and testbenches) to be used to apply for entry level verification positions.
+**The plan:** Complete a series of self-assigned verification projects, to produce a 'verfication portfolio' to be used to apply for entry level verification positions.
 
-**The project:** This is the first such project. I used an extremely simple CPU to create a verification plan, build a testbench in EDAplayground, and execute the plan.
+**The project:** This is the first such project: draft a block-level verification plan, and verify an extremely simple CPU with a SV/UVM testbench built in EDAplayground.
 
-**The goal:** to build my understanding of how verification tools work together (SV, UVM, SVA, functional coverage, etc.), before attempting a more complex project.
+**The goal:** Develop an understanding of how verification tools and concepts work together (SV, UVM, SV Assertions, functional coverage, etc.), before attempting a more complex project.
 
 **The ask:** I am looking for feedback.
-  1. Do you have any criticism of the verification plan or testbenches below?  Absolutely all criticism appreciated.
-  2. Do you think building projects is a reasonable approach to landing an entry level DV engineering role?  
-  3. Are there any skills, methodologies or architectures my next project could incorporate to demonstrate I have the drive and potential to contribute as an entry-level DV engineer?  I am still scoping the next project, but plan to use UC Berkley’s OoO risc-v BOOM core to learn how to build something more resuable at the block and system level. 
+  1. Do you have any criticism of the below project?
+  2. Do you think building verification projects is a reasonable approach to landing an entry level DV engineering role?  
+
+I will next to verify the data and control paths of a pipelined CPU (OpenHW’s 4-stage in-order risc-v cv32e40p core), to improve my verification skills and understanding of CPU architecture. 
 
 All input is much appreciated.  Thank you!
 
 Taylor Templeton
 taylor.templeton@gmail.com
 
-I am a Raleigh, NC based engineer with a semiconductor fabrication background, reskilling in hopes of landing an entry-level design verification role. ([Resume](https://github.com/taylortempleton/VerificationPractice_SimpleCPU/blob/main/Docs/2023_06_June_11_TaylorTempleton.pdf))
+I am a Raleigh, NC based engineer with a semiconductor fabrication background reskilling, via self-directed study, for an entry-level verification engineering role. ([Resume](https://github.com/taylortempleton/VerificationPractice_SimpleCPU/blob/main/Docs/2023_06_June_11_TaylorTempleton.pdf))
 
 
 ## EDA Playground Simulations
