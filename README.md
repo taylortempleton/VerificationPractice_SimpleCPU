@@ -43,7 +43,7 @@ Example EDAplayground log.  Results printed to log instead of exported with Syno
 
 ## Verilator Simulations
 
-(In progress. ECD 6/17)
+(*In progress. ECD 6/17)
 
 
 ## Verification Plan
