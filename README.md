@@ -4,7 +4,7 @@
 
 I verified an extremely simple CPU to develop an understanding of how verification tools and concepts work together (SV, UVM, SV Assertions, functional coverage, etc.).
 
-Before beginning my next verification project, I am hoping for feedback:
+Before beginning my next self-assigned verification project, I am hoping for feedback:
 
   1. Do you have any criticism of the below project?
   2. Do you think building verification projects is a reasonable approach to landing an entry-level DV engineering role?  
