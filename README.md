@@ -66,7 +66,7 @@ This CPU RTL comes from a Cadence "Systemverilog for Design" course.  I used the
 ![](https://github.com/taylortempleton/VerificationPractice_SimpleCPU/blob/main/Docs/StatemachineDecode_Snap.png)
 
 Above diagrams combined, for reference:
-![](https://github.com/taylortempleton/VerificationPractice_SimpleCPU/blob/main/Docs/simplecpu_whiteboard.png)
+![](https://github.com/taylortempleton/VerificationPractice_SimpleCPU/blob/main/Docs/simplecpu_whiteboard.jpg)
 
 
 ## Lessons Learned / Next Steps
