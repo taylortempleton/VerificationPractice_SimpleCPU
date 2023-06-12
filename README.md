@@ -2,17 +2,14 @@
 
 ## Hello!
 
-I am hoping for feedback on my below self-assigned verification project.  
+I verified an extremely simple CPU to develop an understanding of how verification tools and concepts work together (SV, UVM, SV Assertions, functional coverage, etc.).
 
-**The project:** Verify a simple CPU.  Draft a block-level vplan, build a SV/UVM testbench in EDAPlayground, and execute the plan.
+Before beginning my next verification project, I am hoping for feedback:
 
-**The goal:** Develop an understanding of how verification tools and concepts work together (SV, UVM, SV Assertions, functional coverage, etc.), before attempting more complex verification.
-
-**The ask:** I am looking for feedback.
   1. Do you have any criticism of the below project?
   2. Do you think building verification projects is a reasonable approach to landing an entry-level DV engineering role?  
 
-I will next to verify the data and control paths of a pipelined CPU (OpenHW’s 4-stage in-order risc-v cv32e40p core, using EDAPlayground), to improve my verification skills and understanding of CPU architecture. 
+I will next verify the data and control paths of a pipelined CPU (OpenHW’s 4-stage in-order risc-v cv32e40p core, using EDAPlayground), to improve my verification skills and understanding of CPU architecture. 
 
 All input is much appreciated.  Thank you!
 
@@ -22,10 +19,12 @@ taylor.templeton@gmail.com
 I am a Raleigh, NC based engineer with a semiconductor fabrication background reskilling, via self-directed study, for an entry-level verification engineering role. ([Resume](https://github.com/taylortempleton/VerificationPractice_SimpleCPU/blob/main/Docs/2023_06_June_11_TaylorTempleton.pdf))
 
 
+## Project Summary
+Verify a simple CPU.  Draft a block-level vplan, build a SV/UVM testbench in EDAPlayground, and verify each block conistent with the plan. Then, verify the CPU with a small program to check for problematic block interactions.
+
 ## EDA Playground Simulations
 
-*I work within EDA playground, as I do not have access to commercial simulators and there is no EDAPlayground/Github sync.  
-*Unfortunately, EDA Playground itself is often laggy. All sims last confirmed functional 6/11.
+I work within EDA playground, as I do not have access to commercial simulators and there is no EDAPlayground/Github sync. EDA Playground itself is often laggy. All sims last confirmed functional 6/11.
 
 | Block                | EDA Playground Simulation            |
 |----------------------|--------------------------------------|
