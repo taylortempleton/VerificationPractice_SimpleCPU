@@ -4,17 +4,15 @@
 
 I am hoping for feedback on my below self-assigned verification project.  
 
-**The plan:** Complete a series of verification projects, to be used to apply for entry-level verification positions.
-
 **The project:** Verify a simple CPU.  Draft a block-level vplan, build a SV/UVM testbench in EDAPlayground, and execute the plan.
 
-**The project goal:** Develop an understanding of how verification tools and concepts work together (SV, UVM, SV Assertions, functional coverage, etc.), before attempting more complex projects.
+**The goal:** Develop an understanding of how verification tools and concepts work together (SV, UVM, SV Assertions, functional coverage, etc.), before attempting more complex verification.
 
 **The ask:** I am looking for feedback.
   1. Do you have any criticism of the below project?
-  2. Do you think building verification projects is a reasonable approach to landing an entry level DV engineering role?  
+  2. Do you think building verification projects is a reasonable approach to landing an entry-level DV engineering role?  
 
-I will next to verify the data and control paths of a pipelined CPU (OpenHW’s 4-stage in-order risc-v cv32e40p core, still using EDAPlayground), to improve my verification skills and understanding of CPU architecture. 
+I will next to verify the data and control paths of a pipelined CPU (OpenHW’s 4-stage in-order risc-v cv32e40p core, using EDAPlayground), to improve my verification skills and understanding of CPU architecture. 
 
 All input is much appreciated.  Thank you!
 
@@ -74,12 +72,15 @@ This CPU RTL comes from a Cadence "Systemverilog for Design" course.  I used the
 * Consistency in naming at interfaces seems critical for reusability.
 * Plan to try to implement assertions in checker module.
 * Need to improve SVA skills, they are marginal.
+* Add 'bug report' to capture and describe bugs caught.
+* Better explain stimulus: what is actually happening, and how?. (Thanks Colby R.)
 
 ## Sources
-While this project is self-driven/assigned, I would not want to take credit for the sources upon which I drew:
+This project is self-driven/assigned, but I would not want to take credit for the sources upon which I drew:
 * Andrew Piziali's "Functional Verification Coverage Measurment and Analysis"
 * James Peet's  "Verification plans : the five-day verification strategy for modern hardware verification languages"
 * The Siemens' Verification Academy's "UVM Cookbook" and "Coverage Cookbook"
 * The OpenHW Group's Core-V Verification Project verification plans
 * "Getting Started with UVM: A Beginner's Guide" by Vanessa Cooper
+* Feedback from Verification Academy forums. (Many thanks to those who offered input.)
 
