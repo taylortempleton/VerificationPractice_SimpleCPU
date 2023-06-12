@@ -24,7 +24,7 @@ Verify a simple CPU.  Draft a block-level vplan, build a SV/UVM testbench in EDA
 
 ## EDA Playground Simulations
 
-I work within EDA playground, as I do not have access to commercial simulators and there is no EDAPlayground/Github sync. EDA Playground itself is often laggy. All sims last confirmed functional 6/11.
+I work within EDA playground, as I do not have access to commercial simulators.
 
 | Block                | EDA Playground Simulation            |
 |----------------------|--------------------------------------|
