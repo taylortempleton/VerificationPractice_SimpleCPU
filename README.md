@@ -9,14 +9,14 @@ Before beginning my next self-assigned verification project, I am hoping for fee
   1. Do you have any criticism of the below project?
   2. Do you think building verification projects is a reasonable approach to landing an entry-level DV engineering role?  
 
-I will next verify the data and control paths of a pipelined CPU (OpenHW’s 4-stage in-order risc-v cv32e40p core, using EDAPlayground), to improve my verification skills and understanding of CPU architecture. 
+I will next verify the data and control paths of a [pipelined risc-v CPU](https://github.com/taylortempleton/SimpleCPU_RISC-V), to improve my verification skills and understanding of CPU architecture. 
 
 All input is much appreciated.  Thank you!
 
 Taylor Templeton
 taylor.templeton@gmail.com
 
-I am a Raleigh, NC based engineer with a semiconductor fabrication background reskilling, via self-directed study, for an entry-level verification engineering role. ([Resume](https://github.com/taylortempleton/VerificationPractice_SimpleCPU/blob/main/Docs/2023_06_July_24_TaylorTempleton.pdf))
+I am a Raleigh, NC based engineer with a semiconductor fabrication background reskilling for an entry-level design verification-related engineering role. ([Resume](https://github.com/taylortempleton/VerificationPractice_SimpleCPU/blob/main/Docs/2023_07_July_27_TaylorTempleton.pdf))
 
 
 ## Project Summary
