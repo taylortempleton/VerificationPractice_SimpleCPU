@@ -16,7 +16,7 @@ All input is much appreciated.  Thank you!
 Taylor Templeton
 taylor.templeton@gmail.com
 
-I am a Raleigh, NC based engineer with a semiconductor fabrication background reskilling for an entry-level design verification-related engineering role. ([Resume](https://github.com/taylortempleton/VerificationPractice_SimpleCPU/blob/main/Docs/2023_07_July_27_TaylorTempleton.pdf))
+I am a Raleigh, NC based engineer with a semiconductor fabrication background reskilling for an entry-level design verification-related engineering role. ([Resume](https://github.com/taylortempleton/VerificationPractice_SimpleCPU/blob/main/Docs/2023_09_Sept_20_TaylorTempleton.pdf))
 
 
 ## Project Summary
