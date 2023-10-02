@@ -1,30 +1,25 @@
-# Verification Practice Project #1: Simple CPU
+# UVM Verification of a Simple CPU
 
 ## Hello!
 
-I verified an extremely simple CPU to develop an understanding of how verification tools and concepts work together (SV, UVM, SV Assertions, functional coverage, etc.).
+I am a Raleigh, NC based engineer with semiconductor fabrication experience reskilling for a technical role within a computer-hardware manufacturing or design company.  
 
-Before beginning my next self-assigned verification project, I am hoping for feedback:
-
-  1. Do you have any criticism of the below project?
-  2. Do you think building verification projects is a reasonable approach to landing an entry-level DV engineering role?  
-
-I will next verify the data and control paths of a [pipelined risc-v CPU](https://github.com/taylortempleton/SimpleCPU_RISC-V), to improve my verification skills and understanding of CPU architecture. 
-
-All input is much appreciated.  Thank you!
+Below is a small self-assigned project in support of that effort. All input is much appreciated.  Thank you!
 
 Taylor Templeton
 taylor.templeton@gmail.com
 
-I am a Raleigh, NC based engineer with a semiconductor fabrication background reskilling for an entry-level design verification-related engineering role. ([Resume](https://github.com/taylortempleton/VerificationPractice_SimpleCPU/blob/main/Docs/2023_09_Sept_20_TaylorTempleton.pdf))
-
 
 ## Project Summary
-Verify a simple CPU.  Draft a block-level vplan, build a SV/UVM testbench in EDAPlayground, and verify each block conistent with the plan. Then, verify the CPU with a small program to check for problematic block interactions.
+Goal: Build understanding of how functional verification tools and concepts work in concert.
+
+Output: Drafted block-level verification plan, created testbench to execute plan and report coverage.
+
+Tools: SystemVerilog, UVM, assertions, coverpoints/groups, SynopsisVCS (via EDAPlayground) 
+
 
 ## EDA Playground Simulations
-
-I work within EDA playground, as I do not have access to commercial simulators.
+I used EDA playground, as I do not have access to a commercial simulator.
 
 | Block                | EDA Playground Simulation            |
 |----------------------|--------------------------------------|
