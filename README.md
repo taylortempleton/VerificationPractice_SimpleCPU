@@ -1,14 +1,5 @@
 # UVM Verification of a Simple CPU
 
-## Hello!
-
-I am a Raleigh, NC based engineer with semiconductor fabrication experience reskilling for a technical role within a computer-hardware manufacturing or design company.  
-
-Below is a small self-assigned project in support of that effort. All input is much appreciated.  Thank you!
-
-Taylor Templeton
-taylor.templeton@gmail.com
-
 
 ## Project Summary
 Goal: Build understanding of how functional verification tools and concepts work in concert.
